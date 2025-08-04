@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+# Sobre mí
+Me gradué de la Licenciatura en Historia de la Universidad de Chile en diciembre del 2024. Durante mis estudios, tuve la oportunidad de hacer un intercambio en la Universidad de Granada el 2023. Actualmente, curso el Diplomado de Edición y Publicaciones de la Pontificia Universidad Católica de Chile.
+Me interesa la historia europea con un enfoque cultural. Particularmente, los estudios lésbicos sobre cine y literatura.
+Mi ponencia "Representaciones culturales del lesbianismo en la literatura inglesa de la Belle Époque" fue parte del la Primera Jornada de Historia Cultural de la Universidad de Chile.
+Me pueden encontrar en [Mastodon](https://mastodon.social/@gaelhenriquez), tal vez me haga Twitter algún día.
